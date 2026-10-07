@@ -1,0 +1,2 @@
+# Erforderlich für API-Anfragen an WordPress
+requests

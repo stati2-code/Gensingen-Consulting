@@ -1,0 +1,4 @@
+{
+    "wordpress_url": "https://your-domain.com",
+    "auth_token": "your_wordpress_api_token"
+}

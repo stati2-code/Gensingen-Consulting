@@ -1,0 +1,17 @@
+# Sensible Konfigurationsdateien & Logs
+*.log
+*.ini
+*.env
+
+# Lokale Entwicklungs- und Systemdateien
+.DS_Store
+.vscode/
+.idea/
+
+# Temporäre Dateien & Backups
+*.tmp
+*.bak
+*~
+
+# Lokale Tool-Ausgaben (falls vorhanden)
+tool-output/
